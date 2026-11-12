@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: HQBOM
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Fawzan
+    family-names: Alfares
+    email: fs.alfares@paaet.edu.kw
+    orcid: 'https://orcid.org/0009-0008-4061-9111'
+    affiliation: >-
+      Manufacturing Engineering Technology Department,
+      College of Technological Studies, PAAET, Kuwait
+identifiers:
+  - type: doi
+    value: 10.2026/HQBOM.1975
+repository-code: 'https://github.com/DrFawzan-Bot/HQBOM'
+url: 'https://github.com/DrFawzan-Bot/HQBOM'
+abstract: >-
+  Hybrid Quantum-Based Optimization Method with Pattern
+  Search Overview This repository contains the complete
+  implementation, experimental framework, benchmark suite,
+  engineering test problems, and statistical analysis
+  associated with the Hybrid Quantum-Based Optimization
+  Method (HQBOM).
+keywords:
+  - Quantum Inspired Evolution Algorithms
+  - Optimization
+  - Hybridisation
+  - Engineering Optimization Problems
+  - Pattern Search
+license: GPL-3.0
+version: V1.0
+date-released: '2026-11-12'
